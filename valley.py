@@ -11,4 +11,4 @@ for direction in s:
     else:
         level -= 1
          
-print valleys
+print(valleys)
